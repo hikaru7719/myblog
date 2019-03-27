@@ -3,5 +3,6 @@
 Title = "HikaTechBlog"
 description = "自分の学んだことをきままにPostしていくブログです。"
 theme = "tale"
+googleAnalytics = "UA-137032251-1"
 [author]
   name = "Miyahara Hikaru"
