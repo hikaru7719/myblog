@@ -6,3 +6,5 @@ theme = "tale"
 googleAnalytics = "UA-137032251-1"
 [author]
   name = "Miyahara Hikaru"
+[Params]
+css = ["custom.css"]
