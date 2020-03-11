@@ -8,4 +8,4 @@ googleAnalytics = "UA-137032251-1"
   name = "Miyahara Hikaru"
 [Params]
   css = ["custom.css"]
-  images = ["default.png"]
+  images = ["https://miyahara.hikaru.dev/default.png"]
