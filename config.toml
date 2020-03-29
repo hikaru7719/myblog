@@ -14,6 +14,6 @@ googleAnalytics = "UA-137032251-1"
   tag = "tags"
 
 [Menus]
-  main = [{ Name="About", URL="about"}, { Name="Tags", URL="tags"}]
+  main = [{ Name="About", URL="/about"}, { Name="Tags", URL="/tags"}]
 
   
