@@ -9,3 +9,11 @@ googleAnalytics = "UA-137032251-1"
 [Params]
   css = ["custom.css"]
   images = ["https://miyahara.hikaru.dev/default.png"]
+
+[taxonomies]
+  tag = "tags"
+
+[Menus]
+  main = [{ Name="Tags", URL="tags"}]
+
+  
