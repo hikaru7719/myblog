@@ -4,6 +4,7 @@ Title = "HikaTechBlog"
 description = "自分の学んだことをきままにPostしていくブログです。"
 theme = "tale"
 googleAnalytics = "UA-137032251-1"
+Paginate = 20
 [author]
   name = "Miyahara Hikaru"
 [Params]
@@ -15,5 +16,3 @@ googleAnalytics = "UA-137032251-1"
 
 [Menus]
   main = [{ Name="About", URL="/about"}, { Name="Tags", URL="/tags"}]
-
-  
