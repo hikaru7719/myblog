@@ -4,7 +4,12 @@ date: 2019-03-02T14:15:05+09:00
 draft: false
 ---
 # 宮原光
-[GitHubリポジトリ hikaru7719](github.com/hikaru7710)
+<a href="https://twitter.com/hika7719?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @hika7719</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Twitter hika7719](https://twitter.com/hika7719)
+
+
+[GitHub hikaru7719](https://github.com/hikaru7719)
 
 [Qiita](https://qiita.com/hika7719)
 
@@ -23,7 +28,8 @@ draft: false
 
 - JavaScript,TypeScript
     - 仕事で使っている言語です
-    - サーバーサイド(Node.js)からフロントエンド(React.js)まで一応使えます
+    - サーバーサイド(Node.js)からフロントエンドまで使えます
+    - フロントエンドはReact.js,Next.jsをよく使います
 
 - Java
     - 大学時代や会社の研修で書いたことがあります
