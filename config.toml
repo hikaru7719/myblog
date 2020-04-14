@@ -22,4 +22,4 @@ Paginate = 10
   threshold = 80
   includeNewer = false
   toLower = false
-  indices = [{Name="keywords", Weight=100}, {Name="date", Weight=10}]
+  indices = [{Name="tags", Weight=100}, {Name="date", Weight=10}]
