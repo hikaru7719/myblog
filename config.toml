@@ -17,3 +17,9 @@ Paginate = 10
 
 [Menus]
   main = [{ Name="About", URL="/about"}, { Name="Tags", URL="/tags"}]
+
+[related]
+  threshold = 80
+  includeNewer = false
+  toLower = false
+  indices = [{Name="keywords", Weight=100}, {Name="date", Weight=10}]
